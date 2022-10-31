@@ -58,8 +58,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/108709865/192093058-1454e00f-6411-4362-ad28-511e58167389.png">
-<img width="328" alt="image" src="https://user-images.githubusercontent.com/108709865/192093076-eacd6b66-25d3-49a2-89eb-9c0134bba596.png">
+![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/f2dd2f92bb2b3fedd59052d2ba729eb8b5873687/WhatsApp%20Image%202022-10-31%20at%2020.25.37.jpeg)
 
 
 
