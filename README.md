@@ -60,7 +60,7 @@ plt.show()
 ## Output:
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/f2dd2f92bb2b3fedd59052d2ba729eb8b5873687/WhatsApp%20Image%202022-10-31%20at%2020.25.37.jpeg)
 
-
+![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/35c06dd5ea5af3f210aa6e8fcdfecfa731e79d32/WhatsApp%20Image%202022-10-31%20at%2020.25.46.jpeg)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
