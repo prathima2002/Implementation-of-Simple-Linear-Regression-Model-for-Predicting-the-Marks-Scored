@@ -48,12 +48,20 @@ plt.title("Hours vs Scores(Training set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-plt.scatter(X_test,Y_test,color="orange")
-plt.plot(X_train,regressor.predict(X_train),color="red")
+plt.scatter(X_test,Y_test,color="purple")
+plt.plot(X_train,regressor.predict(X_train),color="yellow")
 plt.title("Hours vs Scores(Test set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+mse=mean_squared_error(Y_test,Y_pred)
+print('MSE = ',mse)
+
+mae=mean_absolute_error(Y_test,Y_pred)
+print('MAE = ',mae)
+
+rmse=np.sqrt(mse)
+print("RMSE = ",rmse)
 */
 ```
 
