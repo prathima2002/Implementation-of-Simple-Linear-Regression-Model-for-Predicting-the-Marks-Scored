@@ -66,6 +66,8 @@ plt.show()
 
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/4e2ff2beda5c4f05995ea4ff1bdc63d253d4e536/WhatsApp%20Image%202022-10-31%20at%2020.26.24.jpeg)
 
+![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/3572911b7c5b99f28528e1db78a46b423e839a45/WhatsApp%20Image%202022-11-18%20at%2015.49.26.jpeg)
+
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c23cbc814b0fe6ef6f6fe53abc4814cedf5f4692/WhatsApp%20Image%202022-10-31%20at%2020.26.24.jpeg)
 
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/b934ac2ae5c21471b3f8fb9624009986756cd5c1/WhatsApp%20Image%202022-10-31%20at%2020.26.56.jpeg)
