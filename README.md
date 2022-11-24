@@ -76,10 +76,6 @@ print("RMSE = ",rmse)
 
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/3572911b7c5b99f28528e1db78a46b423e839a45/WhatsApp%20Image%202022-11-18%20at%2015.49.26.jpeg)
 
-![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/11a6a9c8bec846093e3020808382332d7e2d6deb/WhatsApp%20Image%202022-11-24%20at%2013.30.44.jpeg)
-
-![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/305e8e042aefa4e442a74ed88938dab6ffa480bd/WhatsApp%20Image%202022-11-24%20at%2013.30.33.jpeg)
-
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/b934ac2ae5c21471b3f8fb9624009986756cd5c1/WhatsApp%20Image%202022-10-31%20at%2020.26.56.jpeg)
 
 ![image](https://github.com/prathima2002/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/04ff39ced2240f19a9757b47c49aad411673ddbe/WhatsApp%20Image%202022-11-18%20at%2015.50.03.jpeg)
